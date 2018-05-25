@@ -3,6 +3,7 @@ baseURL = "https://www.abhishekpaliwal.com"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
+publishDir= "public"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
